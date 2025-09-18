@@ -23,7 +23,7 @@ global.ovo = "Tidak tersedia"
 global.gopay = "Tidak tersedia"
 global.qris = "https://files.catbox.moe/shtxdh.jpg"
 // JEDA PUSH BOSS //
-global.JedaPushkontak = 10000 // 1000 = 1detik
+global.JedaPushkontak = 20000 // 1000 = 1detik
 global.JedaJpm = 3000  // 1000 = 1detik
 // CPANEL BOSS //
 global.egg = "15" // Isi id egg
