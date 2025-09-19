@@ -2,53 +2,62 @@
   "noiseKey": {
     "private": {
       "type": "Buffer",
-      "data": "+N+Afl/Ygu9NGlUn3GiSqjkP3aVDjt5SONgVsUm2p3U="
+      "data": "qHAt/ldfMUR1p2uJmY0jUtua6N5HL/lD0Wy9Io5nf10="
     },
     "public": {
       "type": "Buffer",
-      "data": "oIuX2lbEhs5Cg45iuULoMP9vAESEy+NAmUUIXVl5JR8="
+      "data": "qq8Q7kiY9PJZzThn1VR/KQJlLGVm8wwPX7ROC8prcQQ="
     }
   },
   "pairingEphemeralKeyPair": {
     "private": {
       "type": "Buffer",
-      "data": "yKH+2qGACiSvul5u69PhwpnBs4hugpEJvqOSVOH3eGs="
+      "data": "KNW4AU7zOf9wqLPnA5WA5p1E4jqLT4Kb5HMBqOBdnlc="
     },
     "public": {
       "type": "Buffer",
-      "data": "Xo/Lhlntr0dbYZmnsDjQTihT0oj07T67kKjEBRbheVk="
+      "data": "qK6SMu8HtirWeCXkL36a778aDiiRnrYE9EvDRVKxSTE="
     }
   },
   "signedIdentityKey": {
     "private": {
       "type": "Buffer",
-      "data": "+FEBnzjyX1Tt2aOyODoLUdQGsNJK1XmRC4yOsxsKIkk="
+      "data": "+CnyllHqXsuJrZ4kfXOFaOWpIwWH3tWS3S0ONcYayWg="
     },
     "public": {
       "type": "Buffer",
-      "data": "CLvk4jG4mFeD/7WA65Lgn7fK3FrWSShQ8biv8KS8NWE="
+      "data": "Iwc2Kcgx7arO7ELAdIp0axTLpn6GQnAwFTZGePxHyCU="
     }
   },
   "signedPreKey": {
     "keyPair": {
       "private": {
         "type": "Buffer",
-        "data": "0JNV9ew9XgEK+K5xdS10BCeohWwU13EOucHXwdUmCWY="
+        "data": "iP0CUDGiP21SEVYjLs1CA0/ZceoNjWtuigJwHot/c3U="
       },
       "public": {
         "type": "Buffer",
-        "data": "DmPlQONChK5ZVCFijA/MBlaYEWomB0tD1S4fn9CDozM="
+        "data": "eK7UoJhg6BvB9q2o/k6HqcYoyvMYDdh691CS/VZQhg8="
       }
     },
     "signature": {
       "type": "Buffer",
-      "data": "GvH6bmTjHgYUexz0D2LvfGZKQqAOHvbvTC+9Avi0HvcYpVSFu4i+HyTcdecpmtf54ea54M9KWNmd87GqUU6HBA=="
+      "data": "oiQ3sb8fQWZWdj8y8Ui6w0k41YK042OaQCEbndPkyBkimgc8hFQqFGao3TruwqXuAK+kdsOLN9WjZfpG/Ar5BA=="
     },
     "keyId": 1
   },
-  "registrationId": 155,
-  "advSecretKey": "8Vcne9/H/Tr9AoQHmFPIb4cSrexLPDglYMLPnH+ea/M=",
-  "processedHistoryMessages": [],
+  "registrationId": 3,
+  "advSecretKey": "FqffaL2LY+EJwgQoifvUBmD5ulqTH56nsphHV4OdrYs=",
+  "processedHistoryMessages": [
+    {
+      "key": {
+        "remoteJid": "6288983703837@s.whatsapp.net",
+        "fromMe": true,
+        "id": "A565A5A7A9518731F430A767820B7C8C"
+      },
+      "messageTimestamp": 1758277888
+    }
+  ],
   "nextPreKeyId": 31,
   "firstUnuploadedPreKeyId": 31,
   "accountSyncCounter": 1,
@@ -58,34 +67,34 @@
   "registered": true,
   "pairingCode": "AAAAAAAA",
   "me": {
-    "id": "6282393734303:7@s.whatsapp.net",
-    "lid": "64090122756330:7@lid",
-    "name": "rann"
+    "id": "6288983703837:5@s.whatsapp.net",
+    "name": "17syaaddd-",
+    "lid": "170536609046762:5@lid"
   },
   "account": {
-    "details": "CJvS+D0Qw960xgYYASAAKAA=",
-    "accountSignatureKey": "1f4JklH8FJmhvBTVI6O3mAxZEqRAu7zkNPm1cCry5RM=",
-    "accountSignature": "8SnWf9Lei6l5/f1af/UJHV6OrqTL8T0ihHPTq5cOgaTERP2bYlUSK1FJd7+JidykXrnyTlAs1sJg76+KJht4CA==",
-    "deviceSignature": "yRUrmKkBQQj7Zq6hbz1sICDQaB52xqfvCT9U2TUIB/zHySvf4AjmQmOi9ZMzXWHtwWvSbsbR0cpDjLtXedn9CA=="
+    "details": "CLPx7KEDEPXhtMYGGAEgACgA",
+    "accountSignatureKey": "muH8c7+48djfOGTum+hlO/2pKraikYyDtFJ8gUZeS1A=",
+    "accountSignature": "AyiG281djQP2jsJLY6+00eJbvhPhTn1q/wWEtj1gMGKWlFUgXwIunHmnjDALRqIxoL320yBxmg/IpzhHOGrcCQ==",
+    "deviceSignature": "YuyaxADMEpDc80/JJKYU07yaYsKXUlZIFhdjHdB1vU9wLHf2SVZXKpAYmDl3tUhrkfR3plkpMp+JqL4ElPYuAA=="
   },
   "signalIdentities": [
     {
       "identifier": {
-        "name": "6282393734303:7@s.whatsapp.net",
+        "name": "6288983703837:5@s.whatsapp.net",
         "deviceId": 0
       },
       "identifierKey": {
         "type": "Buffer",
-        "data": "BdX+CZJR/BSZobwU1SOjt5gMWRKkQLu85DT5tXAq8uUT"
+        "data": "BZrh/HO/uPHY3zhk7pvoZTv9qSq2opGMg7RSfIFGXktQ"
       }
     }
   ],
-  "platform": "android",
+  "platform": "smba",
   "routingInfo": {
     "type": "Buffer",
-    "data": "CAUIEg=="
+    "data": "CAIIEg=="
   },
-  "lastAccountSyncTimestamp": 1758277448,
-  "lastPropHash": "1iAeMt",
-  "myAppStateKeyId": "AAAAAB2/"
+  "lastAccountSyncTimestamp": 1758277881,
+  "myAppStateKeyId": "AAAAABCB",
+  "lastPropHash": "3fS5L5"
 }
